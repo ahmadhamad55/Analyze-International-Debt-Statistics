@@ -1,7 +1,7 @@
 # Analyze-International-Debt-Statistics
 
 <p align="center">
-  <img src="https://github.com/ahmadhamad55/Predicting-Credit-Card-Approvals/blob/main/credit_card%20(1).jpg"  width="400" height="300">
+  <img src="https://github.com/ahmadhamad55/Analyze-International-Debt-Statistics/blob/main/image.jpg"  width="400" height="300">
 </p>
 
 It's not that we humans only take debts to manage our necessities. A country may also take debt to manage its economy. For example, infrastructure spending is one costly ingredient required for a country's citizens to lead comfortable lives. The World Bank is the organization that provides debt to countries.
